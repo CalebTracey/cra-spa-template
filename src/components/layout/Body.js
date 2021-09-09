@@ -1,5 +1,6 @@
+/* eslint-disable react/prop-types */
 import React from 'react';
-import Content from './Content';
+import Content from '../content/Content';
 import Footer from './Footer';
 import Header from './Header';
 
